@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gpt-giatuanpham
 - 🌱 I’m currently learning to be a real cool coder!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 - ⚡ Not-so-fun fact: the abbreivation of my Facebook account is 'GTP', but when ChatGPT emerged, I have been called as 'GPT" since then.
 
 <!---
